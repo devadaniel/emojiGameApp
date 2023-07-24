@@ -1,0 +1,26 @@
+/* Write your code here. */
+.each-emoji-list {
+  list-style-type: none;
+  margin: 10px;
+  background-color: #aaa9e6;
+  background-size: cover;
+  width: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  border-radius: 10px;
+  border: 1px solid #fbc7d4;
+  width: 150px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.each-emoji-image {
+  width: 60px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
